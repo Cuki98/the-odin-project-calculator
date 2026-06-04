@@ -22,7 +22,7 @@ It supports basic arithmetic operations, decimals, operator chaining, and dynami
 
 ## 🌐 Live Demo
 
-🔗 **[Click here for live demo](https://cuki98.github.io/the-odin-project-calculator/)**
+🔗 **[Click here for live demo]([https://cuki98.github.io/the-odin-project-calculator/](https://cuki98.github.io/TOP-calculator/))**
 
 ## Application Screenshots
 
